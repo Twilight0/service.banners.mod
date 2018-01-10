@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<strings>
+    <string id="30000">Διαφημιστικά Γενικά</string>
+    <string id="30001">Ενεργοποίηση διαφημίσεων</string>
+    <string id="30002">Αλλαγή διαφημίσεων κάθε (δευτ.)</string>
+    <string id="30003">Θέση διαφημιστηκών</string>
+    <string id="30004">Παύση ανάμεσα στους κύκλους σε (δευτ.)</string>
+    <string id="30005">Δείξε τα διαφημιστικά σε τυχαία σειρά</string>
+    <string id="30006">Αντιστάθμισμα</string>
+    <string id="30011">Πάνω</string>
+    <string id="30012">Κάτω</string>
+    <string id="30013">Κατά την διακοπή αναπαραγωγής, απενεργοποίησε τελείως την λειτουργία</string>
+</strings>

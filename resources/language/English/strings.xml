@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<strings>
+    <string id="30000">Banners General</string>
+    <string id="30001">Banners on</string>
+    <string id="30002">Change banner every (sec.)</string>
+    <string id="30003">Banner position</string>
+    <string id="30004">Pause between banner cycles (sec.)</string>
+    <string id="30005">Display banners in random order</string>
+    <string id="30006">Offset</string>
+    <string id="30011">Top</string>
+    <string id="30012">Bottom</string>
+    <string id="30013">On playback stop, deactivate banners completely</string>
+</strings>

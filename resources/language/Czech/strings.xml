@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<strings>
+    <string id="30000">Obecná nastavení</string>
+    <string id="30001">Zapnout Bannery</string>
+    <string id="30002">Změnit banner každých (sek.)</string>
+    <string id="30003">Umistěni banneru</string>
+    <string id="30004">Pauze mezi cykly banneru (sec.)</string>
+    <string id="30005">Zobrazovat bannery nahodně</string>
+    <string id="30006">Vyrovnani</string>
+    <string id="30011">Nahoře</string>
+    <string id="30012">Dole</string>
+</strings>

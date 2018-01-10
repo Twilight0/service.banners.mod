@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<strings>
+    <string id="30000">Општа подешавања</string>
+    <string id="30001">Банери укључени</string>
+    <string id="30002">Промени банер сваких (сек.)</string>
+    <string id="30003">Позиција банера</string>
+    <string id="30004">Пауза између понављања (сек.)</string>
+    <string id="30005">Приказуј банере по случајном редоследу</string>
+    <string id="30006">Офсет</string>
+    <string id="30011">Горе</string>
+    <string id="30012">Доле</string>
+</strings>
