@@ -1,3 +1,16 @@
+v1.9.2
+- Added override for paused playback
+- Moved banners folder into resources/media subfolder
+
+v1.9.1
+- Created fork
+- Added greek translation
+- Removed most of the artwork to make it lightweight
+- Tweaks and cosmetics for own needs
+  > renamed default.py to service.py
+  > Increased upper limit for json calls (standalone.py)
+  > Skin resolution getter now finds better resolution for any aspect ratio
+
 v1.9
 - banner size and position fix and offset for standalone json calls
 

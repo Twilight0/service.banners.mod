@@ -177,12 +177,12 @@ class XBMCPlayer(xbmc.Player):
     def onPlayBackEnded(self):
         if booDisplayBanner:
             xbmc.log("BANNERS >> PLAYBACK >>ENDED<<")
-            OnStop()
+            OnStop(pause=False)
 
     def onPlayBackStopped(self):
         if booDisplayBanner:
             xbmc.log("BANNERS >> PLAYBACK >>STOPPED<<")
-            OnStop()
+            OnStop(pause=False)
 
 
 # ============================================================
@@ -235,7 +235,7 @@ def OnPlay():
 # ============================================================
 
 
-def OnStop():
+def OnStop(pause=True):
     global rt
     global myWidget
 
@@ -246,7 +246,7 @@ def OnStop():
     except Exception:
         pass
 
-    if __addon__.getSetting('set_off') == 'true':
+    if __addon__.getSetting('set_off') == 'true' and not pause:
         __addon__.setSetting('on', 'false')
     xbmc.log("BANNERS >> BANNER OFF")
 
